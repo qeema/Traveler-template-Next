@@ -186,7 +186,7 @@ const Home = (props) => {
               <a>
                 <div className="home-offer-container1">
                   <Offer
-                    Image="/offers-21-1500w.png"
+                    Image="/Offers/offers-21-1500w.png"
                     Guides="54 Local guides"
                     Location="Barcelona, Spain"
                   ></Offer>
@@ -252,7 +252,7 @@ const Home = (props) => {
               <a>
                 <div className="home-offer-container7">
                   <Offer
-                    Image="/offers-81-1500w.png"
+                    Image="/Offers/offers-81-1500w.png"
                     Guides="6 Local guides"
                     Location="Rhodes, Greece"
                   ></Offer>
@@ -363,7 +363,7 @@ const Home = (props) => {
             <div className="home-image3">
               <img
                 alt="image"
-                src="/highlight-2-1500w.png"
+                src="/Highlights/highlight-2-1500w.png"
                 className="home-image4"
               />
             </div>
@@ -454,7 +454,7 @@ const Home = (props) => {
                 <div className="home-location-wrapper3">
                   <Location
                     Location="London, UK"
-                    Background="/destination-4-400h.png"
+                    Background="/Destinations/destination-4-400h.png"
                   ></Location>
                 </div>
               </a>
@@ -527,11 +527,11 @@ const Home = (props) => {
             <div className="home-list2">
               <div className="home-row">
                 <Article
-                  Image="/articles-11-1500w.png"
+                  Image="/Articles/articles-11-1500w.png"
                   rootClassName="article-root-class-name1"
                 ></Article>
                 <Article
-                  Image="/articles-21-1500w.png"
+                  Image="/Articles/articles-21-1500w.png"
                   Description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
                   rootClassName="article-root-class-name"
                 ></Article>
